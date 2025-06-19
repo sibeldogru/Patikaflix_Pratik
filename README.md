@@ -1,4 +1,4 @@
-# Patikaflix Pratik – TV Dizi Kayıt Uygulaması
+# Patikaflix – TV Dizi Kayıt Uygulaması
 
 Bu C# konsol uygulaması, kullanıcıdan dizi bilgilerini alarak bir listeye kaydeder ve "komedi" türündeki dizileri sıralayıp ekrana yazdırır.
 
