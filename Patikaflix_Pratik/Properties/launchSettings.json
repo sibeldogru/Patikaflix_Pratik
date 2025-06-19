@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Patikaflix_Pratik": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
